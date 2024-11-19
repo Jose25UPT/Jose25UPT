@@ -111,6 +111,8 @@
       <td><img src="https://icon.icepanel.io/Technology/svg/Flask.svg" width="60px" alt="Flask"></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60px" alt="Node.js"></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60px" alt="Angular"></td>
+      <td><img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" width="60px" alt=".Net"></td>
+      
     </tr>
   </table>
 
